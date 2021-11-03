@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Bishal Bhandari
+- 🌱 I’m currently learning C Programming
