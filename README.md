@@ -1,2 +1,3 @@
-- 👋 Hi, I’m Bishal Bhandari
-- 🌱 I’m currently learning Java, Haksell, CSS and Javascript
+-   Hi, I’m Bishal Bhandari
+-   I know C, Python, C# and HTML
+-   I’m currently learning Java, Haksell, CSS and Javascript
