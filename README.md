@@ -1,3 +1,4 @@
 -   Hi, I’m Bishal Bhandari
--   I know C, Python, C# and HTML
--   I’m currently learning Java, Haksell, CSS and Javascript
+-   I know C, Python, C#,Java, Haksell, CSS & HTML
+-   I am currently learning Javascript and JavaScript Frameworks like React.Js and Node.Js
+-   I can speak multiple languages i.e. Nepali, Hindi, English.
