@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AR Greeting APP with IBM<br>👯 I’m looking to collaborate on any cyber security related projects<br>🌱 I’m currently learning React Native<br>💬 Ask me about Web Development and JavaScript
+🔭I'm currently working on an ordering platform for a restaurant.<br>👯 I'm looking to collaborate on any cyber security related projects<br>🌱 I'm currently learning .NETt<br>💬 Ask me about Web Development and JavaScript
 
 
 # 💻 Tech Stack:
